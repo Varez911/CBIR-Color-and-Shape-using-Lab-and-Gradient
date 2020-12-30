@@ -189,10 +189,10 @@ class Ui_MainWindow(object):
 
     def displayImage(self, listImage):
         for index, img in enumerate(listImage):
-            # print(img)
+            # print(index, ' ', img)
             # print('Successfull read')
             self.stackedWidget.setCurrentIndex(1)
-            img = 'image/'+img
+            img = 'image/'+ img
 
             if index == 0:
                 self.label.setPixmap(QtGui.QPixmap(img))
@@ -220,6 +220,8 @@ class Ui_MainWindow(object):
         _, _, moments, img = self.main(fname)
         Hasil = self.fetchDatabase(moments.tolist())
         Hasil = dict(sorted(Hasil.items(), key=lambda item: item[1]))
+
+        # Print Hasil dari Similarity yang telah di urutkan
         # print(Hasil)
         self.displayImage(Hasil)
 

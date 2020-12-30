@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a0c2fc-5e90-47a9-aead-0610e0a50ee6" name="Default Changelist" comment="" />
+    <list default="true" id="56a0c2fc-5e90-47a9-aead-0610e0a50ee6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HasilFlower" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HasilPesawat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatabaseMoments.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseMoments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/airbus-4454338_1280 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/plane-409047_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/plane-409047_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainUi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainUi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mK9Us73LywlMtwss3QH4LKDARs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -57,21 +70,25 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="-12" key="GridCell.Tab.0.bottom" timestamp="1609240973560">
+    <state x="437" y="158" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609320243525">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="-12" key="GridCell.Tab.0.bottom/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609240973560" />
-    <state width="1323" height="-12" key="GridCell.Tab.0.center" timestamp="1609240973559">
+    <state x="437" y="158" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609320243525" />
+    <state width="1323" height="73" key="GridCell.Tab.0.bottom" timestamp="1609320214932">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="-12" key="GridCell.Tab.0.center/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609240973559" />
-    <state width="1323" height="-12" key="GridCell.Tab.0.left" timestamp="1609240973558">
+    <state width="1323" height="73" key="GridCell.Tab.0.bottom/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609320214932" />
+    <state width="1323" height="73" key="GridCell.Tab.0.center" timestamp="1609320214932">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="-12" key="GridCell.Tab.0.left/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609240973558" />
-    <state width="1323" height="-12" key="GridCell.Tab.0.right" timestamp="1609240973560">
+    <state width="1323" height="73" key="GridCell.Tab.0.center/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609320214932" />
+    <state width="1323" height="73" key="GridCell.Tab.0.left" timestamp="1609320214932">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="-12" key="GridCell.Tab.0.right/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609240973560" />
+    <state width="1323" height="73" key="GridCell.Tab.0.left/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609320214932" />
+    <state width="1323" height="73" key="GridCell.Tab.0.right" timestamp="1609320214932">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="73" key="GridCell.Tab.0.right/0.0.1366.738/234.-900.1440.870@0.0.1366.738" timestamp="1609320214932" />
   </component>
 </project>
